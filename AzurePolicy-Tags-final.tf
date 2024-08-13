@@ -9,8 +9,8 @@ variable "tagName" {
 # Define the value of the tag to be added
 variable "tagValue" {
   description = "The value of the tag to be added"
-  default     = "ClouStoreTFTEC" # Replace with the name of your company
-  //default     = "ClouStoreTFTEC" ### Substitua pelo nome da sua empresa
+  default     = "xxxxxx" # Replace with the name of your company
+  //default     = "xxxxx" ### Substitua pelo nome da sua empresa
 }
 
 # Definition of the Policy
