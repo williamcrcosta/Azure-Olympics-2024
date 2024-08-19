@@ -1,3 +1,4 @@
+
 resource "azurerm_policy_definition" "allowed_locations" {
   name         = "allowed-locations-custom"
   display_name = "Allowed locations custom"
@@ -94,3 +95,6 @@ PARAMETERS
 data "azurerm_resource_group" "rg-azure-mgt" {
   name = "rg-azure-mgt"
 }
+
+# Copyright (c) 2024, Design by William Costa.
+

@@ -83,3 +83,5 @@ resource "azurerm_subscription_policy_assignment" "Allowed_size_sku_custom_assig
   }
 PARAMETERS
 }
+
+# Copyright (c) 2024, Design by William Costa.
